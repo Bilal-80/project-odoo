@@ -1,0 +1,7 @@
+resources
+  - odoo-pv.yml
+  - odoo-pvc.yml
+  - post-svc.yml
+  - odoo-svc.yml
+  - post-sts.yml
+  - odoo-dep.yml
